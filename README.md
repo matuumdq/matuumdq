@@ -24,6 +24,8 @@
 <a target="_blank" href="https://www.linkedin.com/in/mateosalinas//"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=matuumdq)](https://git.io/streak-stats)
 </p>
 
 ------

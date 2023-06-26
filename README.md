@@ -33,5 +33,3 @@ Visit my Portfolio: https://portfolio-matuumdq.vercel.app/
 </p>
 
 ------
-
-Last Edited on: 09/03/2023
